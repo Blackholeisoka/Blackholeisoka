@@ -51,10 +51,3 @@
   <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" height="60" alt="discord" />
   <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white" height="60" alt="hackerrank" />
 </div>
-
-<br clear="both">
-
-<!-- ============ BOTTOM BANNER ============ -->
-<div align="center">
-  <img src="footer.png" width="100%" alt="" />
-</div>
