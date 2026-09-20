@@ -23,6 +23,8 @@
 
 </div>
 
+<h1></h1>
+
 <!-- ============ GITHUB TROPHIES ============ -->
 <h3 align="center">── GitHub Trophies 🏆 ──</h3>
 
