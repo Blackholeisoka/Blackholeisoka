@@ -8,7 +8,7 @@
 <!-- ============ ANIMATED TITLE (terminal typing) ============ -->
 <div align="center">
 <h1>👋 Hi, I'm Blackholeisoka 🏴</h1>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=42+Student;From-scratch+software+developer;Passionate+about+low-level+systems+%26+algorithms" alt="roles" />
+<h2><samp>Passionate about low-level systems &amp; algorithms</samp></h2>
 </div>
 
 ###
