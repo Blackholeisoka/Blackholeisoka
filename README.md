@@ -24,30 +24,35 @@
 
 </div>
 
+<!-- ============ GIF (right) ============ -->
+<img align="right" height="250" src="left.gif" alt="" />
+
 <h3 align="left">── Tech Stack</h3>
 
 <div data-importer="techs" align="left">
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" height="40" alt="c" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" alt="c++" />
-  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=gnu&logoColor=white" height="40" alt="asm" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" height="40" alt="python" />
-  <img src="https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" height="40" alt="shell" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" height="40" alt="linux" />
-  <img src="https://img.shields.io/badge/Vim-000000?style=for-the-badge&logo=vim&logoColor=white" height="40" alt="vim" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" height="40" alt="react" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" height="40" alt="node" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" height="40" alt="postgresql" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" height="40" alt="git" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="40" alt="github" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" height="60" alt="c" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" height="60" alt="c++" />
+  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=gnu&logoColor=white" height="60" alt="asm" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" height="60" alt="python" />
+  <img src="https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" height="60" alt="shell" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" height="60" alt="linux" />
+  <img src="https://img.shields.io/badge/Vim-000000?style=for-the-badge&logo=vim&logoColor=white" height="60" alt="vim" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" height="60" alt="react" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" height="60" alt="node" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" height="60" alt="postgresql" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" height="60" alt="git" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="60" alt="github" />
 </div>
 
 <h3 align="left">── Socials</h3>
 
 <div data-importer="socials" align="left">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail" />
-  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="discord" />
-  <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white" height="40" alt="hackerrank" />
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="60" alt="gmail" />
+  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" height="60" alt="discord" />
+  <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white" height="60" alt="hackerrank" />
 </div>
+
+<br clear="both">
 
 ###
 
@@ -57,5 +62,3 @@
 </div>
 
 ###
-
-<br clear="both">
