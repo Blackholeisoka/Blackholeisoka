@@ -24,7 +24,7 @@
 </table>
 
 <!-- ============ GIF (right) ============ -->
-<img align="right" height="250" src="left.gif" alt="" />
+<img align="right" height="210" src="left.gif" alt="" />
 
 <h3 align="left">── Tech Stack 👀</h3>
 
