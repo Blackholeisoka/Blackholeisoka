@@ -1,9 +1,3 @@
-<!-- ============ ANIMATED TITLE (terminal typing) ============ -->
-<div align="center">
-<h1>👋 Hi, I'm Blackholeisoka 🏴</h1>
-
-</div>
-
 <!-- ============ GIF (right) ============ -->
 <h3 align="center">── Tech Stack 👀 ──</h3>
 
