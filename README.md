@@ -37,3 +37,11 @@
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" height="60" alt="git" />
 
 </div>
+
+<!-- ============ GITHUB TROPHIES ============ -->
+
+<h3 align="center">── GitHub Trophies 🏆 ──</h3>
+
+<div align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Blackholeisoka&theme=darkhub&no-frame=true&margin-w=10&title=-Issues,-Reviews" alt="GitHub Trophies" />
+</div>
