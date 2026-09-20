@@ -54,11 +54,7 @@
 
 <br clear="both">
 
-###
-
 <!-- ============ BOTTOM BANNER ============ -->
 <div align="center">
-  <img src="assets/footer.png" width="100%" alt="" />
+  <img src="footer.png" width="100%" alt="" />
 </div>
-
-###
