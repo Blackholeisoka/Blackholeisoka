@@ -45,3 +45,21 @@
 <div align="center">
   <img src="https://trophy.ryglcloud.net/?username=Blackholeisoka&theme=darkhub&no-frame=true&margin-w=10&title=-Issues,-Reviews" alt="GitHub Trophies" />
 </div>
+<div align="center">
+  <img
+    src="https://trophy.ryglcloud.net/?username=Blackholeisoka&theme=darkhub&no-frame=true&margin-w=10&column=4&row=1"
+    width="850"
+    alt="GitHub Trophies"
+  />
+</div>
+
+<!-- ============ GITHUB TROPHIES ============ -->
+<h3 align="center">── GitHub Trophies 🏆 ──</h3>
+
+<div align="center">
+  <img
+    src="https://trophy.ryglcloud.net/?username=Blackholeisoka&theme=darkhub&no-frame=true&margin-w=10&row=1&column=6&title=-Issues,-Reviews"
+    width="100%"
+    alt="GitHub Trophies"
+  />
+</div>
