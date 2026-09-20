@@ -1,8 +1,3 @@
-<!-- ============ BANNER ============ -->
-<div align="center">
-  <img src="banner.png" width="100%" alt="" />
-</div>
-
 <!-- ============ ANIMATED TITLE (terminal typing) ============ -->
 <div align="center">
 <h1>👋 Hi, I'm Blackholeisoka 🏴</h1>
