@@ -7,27 +7,26 @@
 
 <!-- ============ ANIMATED TITLE (terminal typing) ============ -->
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Blackholeisoka;self-taught+developer;building+from+scratch+in+C" alt="typing" />
-
+<h1>👋 Hi, I'm Blackholeisoka 🏴</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=42+Student;From-scratch+software+developer;Passionate+about+low-level+systems+%26+algorithms" alt="roles" />
 </div>
 
 ###
-
 <!-- ============ ABOUT ============ -->
-<div align="left">
-
-🔭 &nbsp;I'm currently working on **Mshell** — a Unix shell from scratch in C
-🌱 &nbsp;I'm currently learning **systems programming** & the 42 norm
-💬 &nbsp;Ask me about **C, low-level & building tools from scratch**
-⚡ &nbsp;Fun fact: I reimplement things just to understand how they *really* work
-
-</div>
+<table align="center">
+<tr><td>🎓</td><td>Student at</td><td><b>42 — the peer-to-peer coding school</b></td></tr>
+<tr><td>🔥</td><td>What drives me</td><td><b>understanding how things work under the hood</b></td></tr>
+<tr><td>🛠️</td><td>I love building</td><td><b>tools from scratch — shells, parsers, low-level stuff</b></td></tr>
+<tr><td>🔭</td><td>Currently working on</td><td><b>the 42 cursus — common core</b></td></tr>
+<tr><td>🌱</td><td>Currently learning</td><td><b>systems programming & IA</b></td></tr>
+<tr><td>💬</td><td>Ask me about</td><td><b>C, low-level & building tools from scratch</b></td></tr>
+<tr><td>⚡</td><td>What's next</td><td><b>to be continued...</b></td></tr>
+</table>
 
 <!-- ============ GIF (right) ============ -->
 <img align="right" height="250" src="left.gif" alt="" />
 
-<h3 align="left">── Tech Stack</h3>
+<h3 align="left">── Tech Stack 👀</h3>
 
 <div data-importer="techs" align="left">
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" height="60" alt="c" />
@@ -44,7 +43,7 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="60" alt="github" />
 </div>
 
-<h3 align="left">── Socials</h3>
+<h3 align="left">── Socials 💬</h3>
 
 <div data-importer="socials" align="left">
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="60" alt="gmail" />
